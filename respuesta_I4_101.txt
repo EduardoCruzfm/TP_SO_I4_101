@@ -22,3 +22,26 @@ C- ¿Qué color de fondo tiene su página en el MASTER?
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
 
     Quedó el favicon de Alfa.
+
+E- ¿Algún integrante tuvo problemas al hacer el push?
+
+   No, ninguno.
+
+F- ¿Qué problemas surgieron?
+
+   Cuanod se hace el merge de ambas ramas.
+
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+
+   Elejimos los cambios de la rama DESARROLLO (Del archico.css).
+   Y tuvimos en cuenta el ultimo commit del archivo en cuestion.
+
+H- ¿Qué sucede si cada uno utiliza el push -f?
+
+    Forzar la actualización del repositorio.
+
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+
+   Debo hacer un merge de TESTING a DESARROLLO.
