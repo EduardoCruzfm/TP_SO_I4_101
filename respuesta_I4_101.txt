@@ -1,0 +1,24 @@
+Apellido y nombre de los alumnos:
+
+Eduardo Cruz.
+
+Arellano Lautaro Oscar.
+
+Iara spinelli.
+
+
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+
+    La pagina tiene color Blue.
+
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+
+    La pagina tiene color Yellow.
+    
+C- ¿Qué color de fondo tiene su página en el MASTER?
+
+    La pagina tiene color Yellow.
+
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+
+    Quedó el favicon de Alfa.
